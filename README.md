@@ -1,7 +1,13 @@
 SMS Terms & Conditions
 Effective Date: October 1, 2026
 
-By opting in to receive SMS messages from Arabella Counseling, you agree to the following SMS Terms & Conditions.
+By opting in to receive SMS messages from Arabella Counseling, you agree to receive customer care messages.
+
+Message frequency may vary. On average, 1-2 messages per month.
+Message and data rates may apply.
+You can opt out at any time by replying STOP.
+For help, reply HELP.
+Privacy Policy: https://github.com/gotoconnecttestuser-arch/ArabellaConseling_PP
 
 Business Information
 Arabella Counseling
